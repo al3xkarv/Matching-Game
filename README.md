@@ -10,7 +10,7 @@ Simple Matching-Game app designed as a part of Udacity Front-End Nanodegree prog
 * Javascript
 
 ### Installing
-Just clone/download the project files, and run sudoku-solver.html at your browser of choice.
+Just clone/download the project files, and run index.html at your browser of choice.
 
 ## License
 
