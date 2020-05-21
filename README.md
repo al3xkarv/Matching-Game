@@ -20,7 +20,7 @@ Just clone/download the project files, and run index.html at your browser of cho
 
 ## Authors
 
-Alex Karvounis - al3xkarv
+Alex Karvounis - [al3xkarv](https://github.com/al3xkarv)
 
 ## License
 
