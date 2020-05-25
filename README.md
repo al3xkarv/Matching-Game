@@ -1,6 +1,6 @@
 # Matching-Game
 
-Simple Matching-Game app designed as a part of Udacity Front-End Nanodegree program.
+Simple Matching-Game app designed as a part of Udacity Front-End Nanodegree program. Live [here](http://users.uoa.gr/~sdi1700298/Memory%20Game/)
 
 
 ## Built With
